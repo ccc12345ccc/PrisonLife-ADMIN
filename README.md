@@ -1,7 +1,6 @@
 --[[ Script made by
 Discord : LocalPlayer#7434
 Youtube : CXZ NAME_R
-I allowed you to use and copy my scripts and paste it into your scripts
 ]]
 
 local CmdGui = Instance.new("ScreenGui")
